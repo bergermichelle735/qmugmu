@@ -1,0 +1,2 @@
+# qmugmu
+Daily digest notes
